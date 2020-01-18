@@ -3,6 +3,6 @@
 - [x] variables
 - [x] Data types
 - [x] Loops
-- [] Arithimetic operation
+-  Arithimetic operation
 
 
